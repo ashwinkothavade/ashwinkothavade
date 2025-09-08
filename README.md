@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashwinkothavade@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pKOXxluKXgZbOVNzDiDwbDSdzFr9c1pf/view?usp=sharing](https://drive.google.com/file/d/1pKOXxluKXgZbOVNzDiDwbDSdzFr9c1pf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing](https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
