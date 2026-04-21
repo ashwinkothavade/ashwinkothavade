@@ -1,31 +1,126 @@
-<h1 align="center">Hi 👋, I'm Ashwin Kothawade</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashwin Kothavade</h1>
+<h3 align="center">SWE Intern @Akatsuki AI Technologies, Tokyo 🇯🇵 · Full-Stack Developer · CS @ IIITDM Jabalpur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinkothavade&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinkothavade" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinkothavade" alt="ashwinkothavade" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **react,nodejs,docker,grafana**
-
-- 📫 How to reach me **ashwinkothavade@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing](https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwin-kothavade-696a21257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwin-kothavade-696a21257/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ashwin190304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ashwin190304" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ashwinkothawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ashwinkothawade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashwin190304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashwin190304/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/ashwin-kothavade-696a21257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashwinkothavade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ashwin190304/">
+    <img src="https://img.shields.io/badge/LeetCode%20Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/ashwinkothawade">
+    <img src="https://img.shields.io/badge/Codeforces%20Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ashwin190304">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwinkothavade&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinkothavade&theme=onedark&no-frame=true&row=1&column=7" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinkothavade&show_icons=true&locale=en&layout=compact" alt="ashwinkothavade" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinkothavade&show_icons=true&locale=en" alt="ashwinkothavade" /></p>
+### 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinkothavade&" alt="ashwinkothavade" /></p>
+- 🏢 Currently interning as a **Software Engineer @ Akatsuki AI Technologies, Tokyo**
+- 🎓 Final-year **B.Tech CSE @ IIITDM Jabalpur** (2022–2026)
+- 🌱 Building across **Full-Stack Development, Cloud-Native, and Data Engineering**
+- 💬 Ask me about **React, Node.js, Spring Boot, Docker, Kafka, Grafana**
+- 🧠 Passionate about **open source, systems design, Kubernetes, and cloud security**
+- 📫 Reach me at **ashwinkothavade@gmail.com**
+
+---
+
+### 💼 Experience
+
+**🟠 Software Engineer Intern — [Akatsuki AI Technologies](https://aktsk.jp/)**, Tokyo, Japan  _(Oct 2025 – Present)_
+- Working on AI-driven engineering systems at Akatsuki's Tokyo HQ.
+
+**🟣 Software Engineering Intern (Full Stack) — [Mobile Premier League (MPL)](https://www.mpl.live/)**, Pune  _(Jun 2025 – Aug 2025)_
+- Designed and shipped full-stack features on a scalable **Data Engineering Platform** using **React** and **Spring Boot**, including RESTful APIs and dynamic frontend pages.
+- Integrated **Apache Kafka** and **Apache Camel** for real-time data streaming across microservices; implemented **gRPC** inter-service communication to reduce latency.
+
+**🟢 Software Engineering Intern — Argusoft (MedPlat)**, Remote  _(May 2025 – Aug 2025)_
+- Built and maintained **7+ interactive dashboards** in React.js with a reusable component-based architecture, using React Hooks & Context API for state management.
+- Integrated an **AI-powered query system** serving **100+ real-time requests/day**, cutting data reporting time by **40%**.
+
+**🔵 Backend Intern — IIITDM Jabalpur**  _(Jun 2024 – Nov 2024)_
+- Contributed to the **College ERP Portal** — owned the **elective allocation algorithm**, course registration, allocation, and management modules.
+- Maintained a platform serving **3,000+ users** and migrated the frontend from **Django templates → React**.
+
+**🔴 Research Intern — IIITDM Jabalpur**  _(Dec 2023 – Aug 2024)_
+- Analyzed network logs with **CICFlowMeter** to detect security threats at **97% accuracy**.
+- Monitored system performance with **Prometheus**, **sFlow-rt**, and **Node Exporter**; visualized attacks in **Grafana**, covering **70%+** of known malware attack methods.
+
+**🟡 Smallcase & Sagemelon** — _SWE Intern roles_
+
+---
+
+### 🌐 Open Source
+
+- **C4GT DMP'25 — Selected Contributor @ MedPlat** · working on a Digital Public Good platform to enhance medical infrastructure through open-source collaboration.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| **LaundriX** | Smart laundry management system for hostels & PGs — automated booking, queue management, and real-time tracking. | `React` · `Node.js` · `MongoDB` |
+| **CyberFortress** | API security & inventory framework integrated with CI/CD pipelines — flagged **15/16 APIs** as secure and covered **60% of OWASP API Top 10**. | `Security` · `CI/CD` · `OWASP` |
+| **Anomaly Detection in IoT Networks** | ML pipeline detecting network threats with **97% accuracy**, visualized end-to-end. | `AI/ML` · `Prometheus` · `sFlow-rt` · `Grafana` |
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **Top 22 Team — Flipkart GRiD 6.0 Semifinals**
+- ♞ **Knight on LeetCode** (Top 3%, **750+** problems solved)
+- 🎯 **Pupil on Codeforces** (200+ problems solved)
+- 🥇 **AIR-1** — SOF International French Olympiad
+- 📚 **Top 1%** in SWAYAM / NPTEL courses
+
+---
+
+### 🎓 Education
+
+- **B.Tech, Computer Science & Engineering** — IIITDM Jabalpur _(2022 – 2026)_
+- **10th CBSE** — Sinhgad Spring Dale Public School, Vadgaon
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,cpp,c,react,nodejs,express,nextjs,mongodb,mysql,postgres,firebase,kafka,grpc,docker,kubernetes,jenkins,grafana,prometheus,linux,git,github,tensorflow,pytorch,opencv,html,css,tailwind,bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwinkothavade&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinkothavade&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinkothavade&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinkothavade&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Let's connect if you're building in devtools, infra, security, or open source! 🚀</i></p>
