@@ -1,26 +1,33 @@
 <h1 align="center">Ashwin Kothavade</h1>
-<h3 align="center">Software Engineer @ Akatsuki AI Technologies, Tokyo · Owning AI products end-to-end on GCP</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwinkothavade-696a21257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://ashwinkothavadeportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="mailto:ashwinkothavade@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ashwin190304/">
-    <img src="https://img.shields.io/badge/LeetCode%20Knight%202043-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%40+Akatsuki+AI+Technologies%2C+Tokyo;Owning+two+AI+products+end-to-end+on+GCP;LeetCode+Knight+%C2%B7+850%2B+problems+solved;Building+in+AI+%C2%B7+Cloud+%C2%B7+DevTools+%C2%B7+Infra" alt="what I do" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinkothavade&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Based_in-Tokyo,_Japan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=ashwinkothavade"><img src="https://komarev.com/ghpvc/?username=ashwinkothavade&label=Profile+views&color=1f6feb&style=flat-square" alt="profile views" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashwinkothavade-696a21257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ashwinkothavadeportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" />
+  </a>
+  <a href="mailto:ashwinkothavade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ashwin190304/">
+    <img src="https://img.shields.io/badge/LeetCode_Knight_2043-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://drive.google.com/file/d/1godoh0kkJkSwrpWOL-TszM2D2pIGuKHk/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-2F855A?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
