@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ashwinkothavadeportfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+Talendy+Holdings;Prototype+%E2%86%92+production+multi-tenant+AI+SaaS;Helped+grow+revenue+28%C3%97+%28%C2%A510M+%E2%86%92+%C2%A5280M%29;GCP+%C2%B7+Terraform+%C2%B7+Gemini+%C2%B7+Stripe+%C2%B7+Go;LeetCode+Knight+%C2%B7+Top+2.5%25+%C2%B7+850%2B+solved" alt="what I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+Talendy+Holdings;Prototype+%E2%86%92+production+multi-tenant+AI+SaaS;GCP+%C2%B7+Terraform+%C2%B7+Gemini+%C2%B7+Stripe+%C2%B7+Go;LeetCode+Knight+%C2%B7+Top+2.5%25+%C2%B7+850%2B+solved" alt="what I do" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 Software Engineer at **Talendy Holdings** (Pune · HQ Tokyo), where I own **two flagship AI products end-to-end** — from the first line of code to production and operations on Google Cloud.
 
-I joined as an intern when annual revenue was **¥10M**; the products I built and now lead helped grow it to **¥280M within a year — a 28× jump**. The throughline of my work: turning promising prototypes into products that hold up in production and move revenue.
+The throughline of my work: turning promising prototypes into products that hold up in production.
 
 - **B.Tech CSE @ IIITDM Jabalpur** (2022–2026), CPI **8.9**
 - **Knight on LeetCode** — rating 2043, top **2.5%**, **850+** problems solved
@@ -49,7 +49,7 @@ I joined as an intern when annual revenue was **¥10M**; the products I built an
 
 **Software Engineer — Talendy Holdings**, Pune (HQ Tokyo) · _Jun 2026 – Present_
 
-Own two flagship products end-to-end — from first feature to production on Google Cloud. These products helped grow annual revenue **28× (¥10M → ¥280M)**.
+Own two flagship products end-to-end — from first feature to production on Google Cloud.
 
 - **Honyaku** ([honyaku.aktsk.ai](https://honyaku.aktsk.ai)) — took an AI translation tool from single-tenant prototype to a production **multi-tenant SaaS** that translates English↔Japanese text, images, and PDFs inside Slack. Built the multi-tenancy layer (Slack OAuth, **AES-256** encrypted tokens, JWT), **Stripe** subscription billing, per-workspace usage metering, an event-driven **Gemini + Cloud Vision** pipeline, an internal ops console, and the full monitoring stack on **GCP Cloud Run**.
 - **Red Baron** (client) — a full-stack **AI motorcycle appraisal + flyer platform** (**Vertex AI Gemini, YOLOv8, Playwright**) that renders print-ready **30-vehicle PDF flyers in under a minute**, deployed on GCP via **Terraform** behind Google Workspace SSO.
@@ -104,7 +104,6 @@ Open-source contributor on a Digital Public Good — selected **top 100 of 4,200
 
 ### Achievements
 
-- Helped grow product revenue **28× (¥10M → ¥280M)** in one year
 - **Knight on LeetCode** — rating 2043, top 2.5%, 850+ problems solved
 - **Top 100 of 4,200+** applicants — C4GT DMP 2025
 - **Flipkart GRiD 6.0 Semifinalist** (Top 22 of 17,000+ teams) · **IIT Bombay TechFest Top 5**
