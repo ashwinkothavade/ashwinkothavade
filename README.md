@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://ashwinkothavadeportfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%40+Akatsuki+AI+Technologies%2C+Tokyo;Owning+two+AI+products+end-to-end+on+GCP;LeetCode+Knight+%C2%B7+850%2B+problems+solved;Building+in+AI+%C2%B7+Cloud+%C2%B7+DevTools+%C2%B7+Infra" alt="what I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%40+Talendy+Holdings;Owning+two+AI+products+end-to-end+on+GCP;LeetCode+Knight+%C2%B7+850%2B+problems+solved;Building+in+AI+%C2%B7+Cloud+%C2%B7+DevTools+%C2%B7+Infra" alt="what I do" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Tokyo,_Japan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-Pune,_India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" />
   &nbsp;
   <a href="https://komarev.com/ghpvc/?username=ashwinkothavade"><img src="https://komarev.com/ghpvc/?username=ashwinkothavade&label=Profile+views&color=1f6feb&style=flat-square" alt="profile views" /></a>
 </p>
@@ -34,11 +34,11 @@
 
 ### About
 
-Software Engineer at **Akatsuki AI Technologies (Tokyo)**, where I own **two flagship AI products end-to-end** — from the first line of code to production and operations on Google Cloud.
+Software Engineer at **Talendy Holdings** (Pune · HQ Tokyo), where I own **two flagship AI products end-to-end** — from the first line of code to production and operations on Google Cloud.
 
 I joined as an intern when annual revenue was **¥10M**; the products I built and now lead helped grow it to **¥280M within a year — a 28× jump**. The throughline of my work: turning promising prototypes into products that hold up in production and move revenue.
 
-- Final-year **B.Tech CSE @ IIITDM Jabalpur** (2022–2026), CPI **8.9**
+- **B.Tech CSE @ IIITDM Jabalpur** (2022–2026), CPI **8.9**
 - **Knight on LeetCode** — rating 2043, top **2.5%**, **850+** problems solved
 - Building in **AI · Cloud · DevTools · Infra** — open to full-time and contract work
 - Reach me at **ashwinkothavade@gmail.com**
@@ -47,29 +47,31 @@ I joined as an intern when annual revenue was **¥10M**; the products I built an
 
 ### Experience
 
-**Software Engineer — [Akatsuki AI Technologies](https://aktsk.jp/) (Talendy Holdings)**, Tokyo · _Jun 2026 – Present_
+**Software Engineer — Talendy Holdings**, Pune (HQ Tokyo) · _Jun 2026 – Present_
 
 Own two flagship products end-to-end — from first feature to production on Google Cloud. These products helped grow annual revenue **28× (¥10M → ¥280M)**.
 
 - **Honyaku** ([honyaku.aktsk.ai](https://honyaku.aktsk.ai)) — took an AI translation tool from single-tenant prototype to a production **multi-tenant SaaS** that translates English↔Japanese text, images, and PDFs inside Slack. Built the multi-tenancy layer (Slack OAuth, **AES-256** encrypted tokens, JWT), **Stripe** subscription billing, per-workspace usage metering, an event-driven **Gemini + Cloud Vision** pipeline, an internal ops console, and the full monitoring stack on **GCP Cloud Run**.
 - **Red Baron** (client) — a full-stack **AI motorcycle appraisal + flyer platform** (**Vertex AI Gemini, YOLOv8, Playwright**) that renders print-ready **30-vehicle PDF flyers in under a minute**, deployed on GCP via **Terraform** behind Google Workspace SSO.
 
-**Software Engineer Intern — Akatsuki AI Technologies**, Tokyo · _Oct 2025 – May 2026_
+**Software Engineer Intern — [Akatsuki AI Technologies](https://aktsk.jp/)**, Tokyo · _Oct 2025 – May 2026_
 
 Built the platform, security, and data foundations the company's revenue products shipped on.
 
 - **KDDI AI marketing platform** (client) — led the DevOps workstream: **2,400+ lines of Terraform** for a secure multi-environment GCP setup (Cloud Run, private Cloud SQL, VPC, **Cloud Armor**), **Workload Identity Federation** CI/CD, and multi-region Gemini failover.
 - **Security pipeline** — a reusable **4-stage automated scanner** (Gitleaks, Trivy, Semgrep, Checkov + AI review) on Cloud Build, catching leaked secrets, CVEs, and misconfigurations before production — adopted across every repo.
 - **Carreros** — a job-search product aggregating **144k+ listings across all 47 Japanese prefectures** into **Azure AI Search** with 25+ filters, served via Azure Functions + React.
+- Laid the **foundations of Honyaku & Red Baron**, plus a **recruitment system** (Next.js + Node.js + PostgreSQL) integrating Slack, Google Calendar, GCP, and Gmail.
 
-**Backend Intern — [smallcase](https://www.smallcase.com/)**, APAC · _Oct 2025 – Feb 2026_
+**Backend Intern — [smallcase](https://www.smallcase.com/)**, APAC · _Jul 2025 – Oct 2025_
 
 Backend engineer on the loan-against-mutual-funds platform (Go, MongoDB, Redis), shipping security and reliability features across the South Indian Bank integration.
 
 - **Closed an open cost leak** — built a two-stage **Bank Verification API** (Penny Drop + Name Match). Each penny drop is a paid bank call and the flow was previously unbounded; added abuse guards (max 10 attempts, auto-block after 3 failures), encrypted PII, and submission gating — blocking payouts to invalid accounts.
 - **Cut DB load** with a Redis caching layer for ~**8k ISINs** of mutual fund data: batch MGET reads, pipelined writes, non-blocking SCAN invalidation, 90-min TTL, non-fatal on cache failure.
+- Added **field-level encryption** for LSP credentials, replaced hardcoded interest rates with dynamic ROI from signed agreements, and integrated the **SIB Drawing Power API** end-to-end with full unit tests.
 
-**Software Engineering Intern (Full Stack) — [Mobile Premier League (MPL)](https://www.mpl.live/)**, Pune · _Jun 2025 – Aug 2025_
+**Software Engineering Intern (Full Stack) — [Mobile Premier League (MPL)](https://www.mpl.live/)**, Pune · _Jun 2025 – Jul 2025_
 
 - Designed and shipped full-stack features on a scalable **Data Engineering Platform** (React + Spring Boot, RESTful APIs).
 - Integrated **Kafka + Apache Camel** for real-time streaming across microservices; added **gRPC** inter-service communication to reduce latency.
@@ -102,7 +104,7 @@ Open-source contributor on a Digital Public Good — selected **top 100 of 4,200
 
 ### Achievements
 
-- Helped grow product revenue **28× (¥10M → ¥280M)** in one year at Akatsuki
+- Helped grow product revenue **28× (¥10M → ¥280M)** in one year
 - **Knight on LeetCode** — rating 2043, top 2.5%, 850+ problems solved
 - **Top 100 of 4,200+** applicants — C4GT DMP 2025
 - **Flipkart GRiD 6.0 Semifinalist** (Top 22 of 17,000+ teams) · **IIT Bombay TechFest Top 5**
