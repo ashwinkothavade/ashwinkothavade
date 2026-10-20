@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ashwinkothavadeportfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%40+Talendy+Holdings;Owning+two+AI+products+end-to-end+on+GCP;LeetCode+Knight+%C2%B7+850%2B+problems+solved;Building+in+AI+%C2%B7+Cloud+%C2%B7+DevTools+%C2%B7+Infra" alt="what I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+Talendy+Holdings;Prototype+%E2%86%92+production+multi-tenant+AI+SaaS;Helped+grow+revenue+28%C3%97+%28%C2%A510M+%E2%86%92+%C2%A5280M%29;GCP+%C2%B7+Terraform+%C2%B7+Gemini+%C2%B7+Stripe+%C2%B7+Go;LeetCode+Knight+%C2%B7+Top+2.5%25+%C2%B7+850%2B+solved" alt="what I do" />
   </a>
 </p>
 
