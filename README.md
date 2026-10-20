@@ -56,7 +56,7 @@ Own two flagship products end-to-end — from first feature to production on Goo
 
 **Software Engineer Intern — [Akatsuki AI Technologies](https://aktsk.jp/)**, Tokyo · _Oct 2025 – May 2026_
 
-Built the platform, security, and data foundations the company's revenue products shipped on.
+Built the platform, security, and data foundations the company's products shipped on.
 
 - **KDDI AI marketing platform** (client) — led the DevOps workstream: **2,400+ lines of Terraform** for a secure multi-environment GCP setup (Cloud Run, private Cloud SQL, VPC, **Cloud Armor**), **Workload Identity Federation** CI/CD, and multi-region Gemini failover.
 - **Security pipeline** — a reusable **4-stage automated scanner** (Gitleaks, Trivy, Semgrep, Checkov + AI review) on Cloud Build, catching leaked secrets, CVEs, and misconfigurations before production — adopted across every repo.
